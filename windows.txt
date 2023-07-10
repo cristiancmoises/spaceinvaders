@@ -2,4 +2,4 @@
 ssh root@segfault.net
 
 # Copy Any Files To Your VM:
-scp -o "SetEnv SECRET=NGhWGiXxjKfAxChRRcBTAMFn" C:\USers\Administrator\Documents\ root@adm.segfault.net:/root/Desktop
+scp -o "SetEnv SECRET=?" C:\USers\Administrator\Documents\ root@?.segfault.net:/root/Desktop
