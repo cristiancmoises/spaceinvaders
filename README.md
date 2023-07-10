@@ -1,7 +1,7 @@
 # Space Invaders
 ![image](https://github.com/cristiancmoises/spaceinvaders/assets/86272521/11bfe09b-3039-482e-9e1b-5dec2bb4c4a7)
-
 ### Automation with SSH for Hacking
+![image](https://github.com/cristiancmoises/spaceinvaders/assets/86272521/300ad441-f59b-475d-92d0-ae77aa4211ef)
 
 |First steps:                                                            |
 |------------------------------------------------------------------------|
