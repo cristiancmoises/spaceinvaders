@@ -1,0 +1,5 @@
+# Access:
+ssh root@segfault.net
+
+# Copy Any Files To Your VM:
+scp -o "SetEnv SECRET=NGhWGiXxjKfAxChRRcBTAMFn" C:\USers\Administrator\Documents\ root@adm.segfault.net:/root/Desktop
