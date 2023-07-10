@@ -18,8 +18,8 @@
 | systemctl enable tor  |
 | systemctl start tor   |
 | # OPENRC USERS        |
-| rc-service enable tor |
-| rc-service start tor  |
+| rc-service tor enable |
+| rc-service tor start  |
 
 ### Are you prepared? OK... start with this:
 
