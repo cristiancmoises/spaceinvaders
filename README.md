@@ -28,14 +28,14 @@
 ### Are you prepared? OK... start with this:
 
           torify sshpass -p "segfault" pssh -A -i -H "root@lsd.segfault.net:22" uname -a  
+### [_Tutorial YouTube_](https://www.youtube.com/embed/OqZiuoV75wQ)
 
 ## Do you want go deep? OK...
-
-<center>
 <img src="https://github.com/cristiancmoises/spaceinvaders/assets/86272521/43e10cb7-57f4-4c21-afc8-35ce2e503309" width="540" height="320"/>
-</center>
+
 
 ## DEEEEEEEEP TUTORIAL...
+### [_Tutorial YouTube_](https://youtu.be/fTgD2YGEvrE)
 |Go to Segfault interactive shell [here](https://shell.segfault.net) |
 |--------------------------------------|
 | When your machine starts, do this: |
