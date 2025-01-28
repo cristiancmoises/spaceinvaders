@@ -47,5 +47,7 @@
 ## And repeat to infinity!
 ![tunnel](https://github.com/cristiancmoises/spaceinvaders/assets/86272521/a4a527f9-b749-476c-b517-480a5f173143)
 
-
 > # Knowledge is power. Use it.
+
+# 🌟 Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=cristiancmoises/spaceinvaders&type=Date)](https://star-history.com/#cristiancmoises/spaceinvaders&Date)
